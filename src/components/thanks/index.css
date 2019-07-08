@@ -1,0 +1,44 @@
+body{
+    background: #dadada
+}
+
+div#surveyForm{
+    width : 70%;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px auto;
+}
+
+div#surveyForm header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+div#surveyForm span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+
+div#surveyForm img{
+    width : 20%;
+}
+
+div#surveyForm .ButtonList #sim{
+    background : #2CC990;
+    color: #ffffff;
+    font-size: 18px;
+    width : 15%;
+    height: 70px;
+    border-radius: 10px;
+}
+
+div#surveyForm .ButtonList #nao{
+    background : #FC6042;
+    font-size: 18px;
+    color: #ffffff;
+    width : 15%;
+    height: 70px;
+    border-radius: 10px;
+}
