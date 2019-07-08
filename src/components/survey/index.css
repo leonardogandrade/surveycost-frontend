@@ -25,15 +25,15 @@ div#surveyForm header span{
 }
 
 div#surveyForm img{
-    margin-top :30px;
-    width : 20%;
+    margin-top :5px;
+    width : 80px;
 }
 
 div#surveyForm .ButtonList #sim{
     background : #2CC990;
     color: #ffffff;
     font-size: 18px;
-    width : 15%;
+    width : 80px;
     height: 70px;
     border-radius: 10px;
 }
@@ -42,7 +42,7 @@ div#surveyForm .ButtonList #nao{
     background : #FC6042;
     font-size: 18px;
     color: #ffffff;
-    width : 15%;
+    width : 80px;
     height: 70px;
     border-radius: 10px;
 }
